@@ -69,8 +69,8 @@ h3 {
 }
 
 @media (max-width: 800px) {
-  .bicicletas h2 {
-    font-size: 20px;
+  .container h2 {
+    font-size: 24px;
   }
   .bicicletas h3 {
     font-size: 12px;
@@ -81,5 +81,16 @@ h3 {
   }
   .bicicletas a span {
     font-size: 12px;
+  }
+}
+
+@media (max-width: 400px) {
+  .container h2 {
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+
+  .bicicletas h3 .preco {
+    font-size: 10px;
   }
 }
