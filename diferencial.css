@@ -1,0 +1,13 @@
+.diferencial {
+  max-width: 1600px;
+  height: 500px;
+  background: var(--c11);
+  margin-top: 40px;
+}
+
+.diferencial h2 {
+  color: var(--c1);
+  text-align: center;
+  text-transform: uppercase;
+  padding-top: 50px;
+}
