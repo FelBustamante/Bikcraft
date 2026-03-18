@@ -110,7 +110,7 @@
   }
 }
 
-@media (max-width: 600px) {
+@media (max-width: 450px) {
   .tecnologia-conteudo > span {
     font-size: 20px;
     padding: 0px;
