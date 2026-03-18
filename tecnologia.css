@@ -121,20 +121,17 @@
   }
 
   .tecnologia-conteudo p {
-    padding: 40px;
+    padding: 0px 20px;
   }
   .tecnologia-conteudo a {
     padding: 20px;
     font-size: 20px;
-  }
-  .tecnologia-imagem {
-    display: none;
   }
   .tecnologia-vantagens {
     flex-direction: column;
     padding: 20px;
   }
   .tecnologia-vantagens p {
-    padding: 2px;
+    padding: 0px;
   }
 }
