@@ -117,14 +117,14 @@
   }
   .tecnologia-conteudo h2 {
     font-size: 40px;
-    padding: 40px;
+    padding: 20px;
   }
 
   .tecnologia-conteudo p {
     padding: 40px;
   }
   .tecnologia-conteudo a {
-    padding: 40px;
+    padding: 20px;
     font-size: 20px;
   }
   .tecnologia-imagem {
@@ -132,7 +132,7 @@
   }
   .tecnologia-vantagens {
     flex-direction: column;
-    padding: 40px;
+    padding: 20px;
   }
   .tecnologia-vantagens p {
     padding: 2px;
