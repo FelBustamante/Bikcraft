@@ -1,0 +1,27 @@
+.parceiros-bg {
+  max-width: 1400px;
+  height: 400px;
+  background-color: var(--c0);
+}
+
+.parceiros-bg h2 {
+  margin-left: 40px;
+  margin-top: 80px;
+  font-size: 48px;
+  color: var(--c11);
+  font-family: poppins, sans-serif;
+}
+
+.parceiros-bg h2 span {
+  color: var(--p1);
+  margin: 0px;
+}
+
+.parceiros {
+  display: flex;
+  padding: 20px;
+  gap: 10px;
+  margin: 0 auto;
+  justify-content: space-around;
+}
+
