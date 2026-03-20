@@ -8,7 +8,7 @@
 .parceiros-bg h2 {
   margin-left: 20px;
   margin-top: 80px;
-  padding: 20px;
+  padding: 40px;
   font-size: 48px;
   color: var(--c11);
   font-family: poppins, sans-serif;
@@ -46,6 +46,5 @@
   .parceiros-bg h2 {
     font-size: 32px;
     margin-top: 10PX;
-    margin-left: 10px;
   }
 }
