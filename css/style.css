@@ -164,6 +164,9 @@ img {
       padding: 10px;
       margin-left: 10px;
     }
+    .header-menu a {
+      margin-left: 20px;
+    }
     .introducao-bg {
       background: var(--c11);
       padding-top: 40px;
@@ -188,7 +191,7 @@ img {
 
  @media (max-width: 600px) {
   .header a {
-    padding-left: 20px;
+    padding-left: 10px;
     font-size: 16px;
   }
   .introducao a {
