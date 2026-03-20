@@ -1,12 +1,14 @@
 .parceiros-bg {
   max-width: 1400px;
-  height: 400px;
+  height: 600px;
   background-color: var(--c0);
+  padding-top: 40px;
 }
 
 .parceiros-bg h2 {
-  margin-left: 40px;
+  margin-left: 20px;
   margin-top: 80px;
+  padding: 20px;
   font-size: 48px;
   color: var(--c11);
   font-family: poppins, sans-serif;
@@ -25,3 +27,28 @@
   justify-content: space-around;
 }
 
+@media ( max-width: 800px) {
+  .parceiros-bg {
+    
+  }
+  .parceiros-bg h2 {
+    font-size: 40px;
+    margin-top: 20PX;
+    margin-left: 20px;
+  }
+
+  .parceiros {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 40px;
+    justify-items: center;
+  }
+}
+
+@media (max-width: 600px) {
+  .parceiros-bg h2 {
+    font-size: 32px;
+    margin-top: 10PX;
+    margin-left: 10px;
+  }
+}
