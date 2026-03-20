@@ -79,7 +79,7 @@ img {
   }
   .header-menu a {
     background: var(--c11);
-    padding: 12px;
+    padding: 10px;
     border-radius: 4px;
   }
 }
@@ -185,6 +185,7 @@ img {
  @media (max-width: 600px) {
   .header a {
     padding-left: 20px;
+    font-size: 16px;
   }
   .introducao a {
     padding: 12px 16px;
