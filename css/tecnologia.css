@@ -101,11 +101,16 @@
     grid-template-columns: 1fr;
   }
   .tecnologia-conteudo {
-    padding-top: 60px;
-    padding-bottom: 60px;
+    padding: 0px;
+  }
+  .tecnologia-conteudo p {
+    margin-left: 10px;
   }
   .tecnologia-imagem {
     display: none;
+  }
+  .tecnologia-texto p {
+    margin-left: 0px;
   }
   .tecnologia a {
     margin-bottom: 60px;
