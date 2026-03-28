@@ -74,5 +74,18 @@
   .vantagens-itens {
     grid-template-columns: 1fr;
   }
+  .vantagem-texto h3 {
+    padding: 20px 0px;
+  }
+  .vantagens-bg h1 {
+    font-size: 52px;
+    margin-left: 10px;
+  }
+  .vantagens-bg h1 {
+    padding: 40px;
+  }
+  .vantagens-itens {
+    padding: 40px;
+  }
 }
 
