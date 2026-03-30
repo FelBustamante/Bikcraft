@@ -94,7 +94,7 @@ body {
   margin-bottom: 40px;
 }
 
-.bicicleta-bikcraft button {
+.bicicleta-bikcraft a {
   font-family: poppins, sans-serif;
   font-size: 18px;
   color: var(--p5);
@@ -109,15 +109,11 @@ body {
   place-self: end;
   position: relative;
   top: -40px;
+  padding: 10px;
 }
 
-.bicicleta-bikcraft button a {
-  padding-right: 10px;
-  align-content: center;
-}
-
-.bicicleta-bikcraft button img {
-  margin: 10px;
+.bicicleta-bikcraft a img {
+  margin: 5px 10px
 }
 
 @media (max-width: 900px) {
