@@ -267,4 +267,17 @@ h2 span {
   .contatos-info h3 {
     margin-top: 80px;
   }
+  .mapa {
+    width: 350px;
+  }
+  .locais-container h2 {
+    font-size: 38px;
+  }
+  .locais h2 {
+    font-size: 38px;
+  }
+  .locais-rua {
+    padding: 15px;
+    
+  }
 }

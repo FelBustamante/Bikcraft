@@ -7,6 +7,7 @@
 @import url('contatos.css');
 @import url('bicicletas-sobre.css');
 @import url('vantagens.css');
+@import url('bicicletas2.css');
 
 
 body {
@@ -115,6 +116,7 @@ img {
 
 .introducao-conteudo p {
   margin: -40px;
+  padding: 40px;
 }
 
 .introducao img {

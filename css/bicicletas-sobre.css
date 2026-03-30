@@ -149,3 +149,12 @@ body {
     position: static;
   }
 }
+
+@media (max-width: 600px){
+  .bicicleta-bikcraft  a {
+  top: 20px;
+  align-items: center;
+  place-self: initial;
+  width: fit-content;
+}
+}
